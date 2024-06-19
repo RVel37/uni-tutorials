@@ -1,4 +1,4 @@
-### SYNTAX ###
+#------------------------ SYNTAX -------------------------
 
 # 1: how to print
 print("Hello World")
@@ -8,7 +8,7 @@ if 5>2:
     print("YES")
 
 
-### COMMENTS ###
+#------------------------ COMMENTS -------------------------
 
 # 1: how to comment
 # this is a comment
@@ -21,7 +21,7 @@ more than 1 line
 """
 
 
-### Variables ###
+#------------------------ VARIABLES -------------------------
 
 # 1: create variable 'carname' and assign value 'Volvo' to it
 carname = "Volvo"
