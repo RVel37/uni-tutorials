@@ -1,0 +1,6 @@
+name: uni-tutorials
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12.2
